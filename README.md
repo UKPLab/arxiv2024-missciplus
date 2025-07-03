@@ -1,7 +1,7 @@
 
 ![Task Example](missciplus.png)
 
-# Grounding Fallacies Misrepresenting Scientific Publications in Evidence (Preprint 2024)
+# Grounding Fallacies Misrepresenting Scientific Publications in Evidence (NAACL 2025)
 [![License](https://img.shields.io/github/license/UKPLab/ukp-project-template)](https://opensource.org/licenses/Apache-2.0)
 [![Python Versions](https://img.shields.io/badge/Python-3.10-blue.svg?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
@@ -379,11 +379,24 @@ python run-subtask-3.py evaluate st3-concat__reconstruct-concat--p1-basic-DLE__l
 When using MissciPlus, please ensure to cite the following publications:
 
 ```bibtex 
-@inproceedings{glockner2025grounding,
-  title={{Grounding Fallacies Misrepresenting Scientific Publications in Evidence}],
-  author={Glockner, Max and Hou, Yufang and Nakov, Preslav and Gurevych, Iryna},
-  booktitle={To appear at NAACL 2025},
-  year={2025},
+@inproceedings{glockner-etal-2025-grounding,
+    title = "Grounding Fallacies Misrepresenting Scientific Publications in Evidence",
+    author = "Glockner, Max  and
+      Hou, Yufang  and
+      Nakov, Preslav  and
+      Gurevych, Iryna",
+    editor = "Chiruzzo, Luis  and
+      Ritter, Alan  and
+      Wang, Lu",
+    booktitle = "Proceedings of the 2025 Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics: Human Language Technologies (Volume 1: Long Papers)",
+    month = apr,
+    year = "2025",
+    address = "Albuquerque, New Mexico",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.naacl-long.491/",
+    doi = "10.18653/v1/2025.naacl-long.491",
+    pages = "9732--9767",
+    ISBN = "979-8-89176-189-6",
 }
 
 @inproceedings{glockner-etal-2024-missci,
